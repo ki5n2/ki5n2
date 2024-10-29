@@ -8,8 +8,8 @@
 - Urban and spatial data analytics
 
 ### Education
-- M.S. in Statistics, Jeonbuk National University
-- B.S. in Statistical Data Science, University of Seoul
+- M.S. in Statistical Data Science, University of Seoul
+- B.S. in Statistics, Jeonbuk National University
 
 <!--
 **ki5n2/ki5n2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
