@@ -1,4 +1,15 @@
-## Hi there 👋
+## Kione Kim 
+
+### Interests
+- Machine Learning
+- Deep Learning
+- Data Mining
+- Analytics and inferences about Graph data
+- Urban and spatial data analytics
+
+### Education
+- M.S. in Statistics, Jeonbuk National University
+- B.S. in Statistical Data Science, University of Seoul
 
 <!--
 **ki5n2/ki5n2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
