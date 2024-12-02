@@ -4,7 +4,7 @@
 - Machine Learning
 - Deep Learning
 - Data Mining
-- Analytics and inferences about Graph data
+- Analytics and inferences about graph data
 - Urban and spatial data analytics
 
 ### Education
