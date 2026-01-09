@@ -20,12 +20,13 @@ Ultimately, I'm here to design urban systems through data—to solve real proble
 ### Experiences
 - Developing molecular toxicity link-prediction models based on CTD data
 - Developing graph-level anomaly detection models with transformers
+- 'Wrist Doctor 9988' Step Count Data Analysis
 
 ---
 
 ### Skills
-- Python, Pytorch, Tensorflow
-- R, Julia
+- Python, R, Julia, SPSS
+- Pytorch, Tensorflow
 - MySQL, PostgreSQL, duckDB
 
 <!--
