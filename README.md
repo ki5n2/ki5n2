@@ -17,13 +17,13 @@ Ultimately, I'm here to design urban systems through data—to solve real proble
 
 ---
 
-### Experiences:
+### Experiences
 - Developing molecular toxicity link-prediction models based on CTD data
 - Developing graph-level anomaly detection models with transformers
 
 ---
 
-### Skills:
+### Skills
 - Python, Pytorch, Tensorflow
 - R, Julia
 - MySQL, PostgreSQL, duckDB
